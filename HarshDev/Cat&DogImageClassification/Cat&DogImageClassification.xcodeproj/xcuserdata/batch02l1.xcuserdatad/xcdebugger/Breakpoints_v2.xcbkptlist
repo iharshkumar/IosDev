@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "67392552-26FB-4849-95F8-815E3C27DBF4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5BD3591-743E-4893-A942-F63C0310F33E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Cat&amp;DogImageClassification/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "classify(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A5BD3591-743E-4893-A942-F63C0310F33E - 10ab8a64a61a2488"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Cat_DogImageClassification.ContentView.classify(image: __C.UIImage) -&gt; ()"
+                  moduleName = "Cat&amp;DogImageClassification.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batch02l1/Documents/ios%20dev/Pujji/PujjiUITests/HarshDev/Cat&amp;DogImageClassification/Cat&amp;DogImageClassification/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80">
+               </Location>
+               <Location
+                  uuid = "A5BD3591-743E-4893-A942-F63C0310F33E - eb1cc4c701985ef0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Cat_DogImageClassification.ContentView.classify(image: __C.UIImage) -&gt; ()"
+                  moduleName = "Cat&amp;DogImageClassification.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/batch02l1/Documents/ios%20dev/Pujji/PujjiUITests/HarshDev/Cat&amp;DogImageClassification/Cat&amp;DogImageClassification/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

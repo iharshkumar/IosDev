@@ -29,30 +29,9 @@
 		4C9A90332EEBF16D00D9B09E /* RemainderAssignmentUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RemainderAssignmentUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		4C9A90522EEC01E600D9B09E /* Exceptions for "RemainderAssignment" folder in "RemainderAssignmentTests" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				aag.caf,
-			);
-			target = 4C9A90282EEBF16D00D9B09E /* RemainderAssignmentTests */;
-		};
-		4C9A90532EEC01E600D9B09E /* Exceptions for "RemainderAssignment" folder in "RemainderAssignmentUITests" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				aag.caf,
-			);
-			target = 4C9A90322EEBF16D00D9B09E /* RemainderAssignmentUITests */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		4C9A901B2EEBF16B00D9B09E /* RemainderAssignment */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				4C9A90522EEC01E600D9B09E /* Exceptions for "RemainderAssignment" folder in "RemainderAssignmentTests" target */,
-				4C9A90532EEC01E600D9B09E /* Exceptions for "RemainderAssignment" folder in "RemainderAssignmentUITests" target */,
-			);
 			path = RemainderAssignment;
 			sourceTree = "<group>";
 		};

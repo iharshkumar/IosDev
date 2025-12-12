@@ -141,7 +141,7 @@ struct ContentView: View {
         let content = UNMutableNotificationContent()
         content.title = "Reminder"
         content.body = reminderText.isEmpty ? "It's time!" : reminderText
-        content.sound = UNNotificationSound(named: UNNotificationSoundName("aag.caf"))
+        content.sound = .default
 
         
         // Use time interval trigger for reliable testing
